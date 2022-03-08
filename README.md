@@ -31,7 +31,7 @@
 ![Snake animation](https://github.com/KingBreak1/KingBreak1/blob/output/github-contribution-grid-snake.svg)
     
 <p float="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/ar0/33230688f0c34fa6cf8ac7725ba3b376.gif" width="490px" height="374px" />
-  <img src="https://i.imgur.com/Kt4JMBj.gif" align="left"" width="500px" height="374px" /> 
+  <img src="https://lastfm.freetls.fastly.net/i/u/ar0/33230688f0c34fa6cf8ac7725ba3b376.gif" width="400px" height="374px" />
+  <img src="https://i.imgur.com/Kt4JMBj.gif" align="left"" width="400px" height="374px" /> 
 </p>
                                                                                        
