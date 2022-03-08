@@ -1,5 +1,5 @@
 <body>
-<h1 align="center"> Bem vindos! </h1>
+<h1 align="center"> Sejam bem vindos! </h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
